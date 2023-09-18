@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "tabuada2",
+            "request": "launch",
+            "mainClass": "tabuada2",
+            "projectName": "Tabuada2_62696eb1"
+        },
+        {
+            "type": "java",
+            "name": "tabuada1",
+            "request": "launch",
+            "mainClass": "tabuada1",
+            "projectName": "Tabuada2_62696eb1"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "tabuada",
+            "request": "launch",
+            "mainClass": "tabuada",
+            "projectName": "Tabuada2_62696eb1"
+        }
+    ]
+}
