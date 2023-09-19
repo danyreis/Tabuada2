@@ -20,8 +20,6 @@ public class tabuada2 {
         System.out.println("\nDivisão:");
         for (int i=1; i<=10; i++){            
             System.out.println(+num+"/"+i+"="+(num/i));
-        }
-        
-
+        }       
     }
 }
